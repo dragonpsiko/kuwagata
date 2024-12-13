@@ -1,22 +1,28 @@
-#Generate From https://raw.githubusercontent.com/dickymuliafiqri/Nautica/refs/heads/main/proxyList.txt
-
 35.219.15.90,443,ID,Google LLC
 35.219.50.99,443,ID,Google LLC
 103.168.146.169,20132,ID,Pt Herza Digital Indonesia
-103.168.146.160,20132,ID,Tes Inactive Server
+206.237.98.76:587,ID,Pt Herza Digital Indonesia
 172.232.239.134,587,ID,Akamai Technologies  Inc
 172.232.239.175,587,ID,Akamai Technologies  Inc
 103.133.223.52,2096,ID,Pt Cloud Teknologi Nusantara
 172.232.239.151,587,ID,Akamai Technologies  Inc
+172.232.239.175:587,ID,Akamai Technologies Inc
 172.232.239.249,587,ID,Akamai Technologies  Inc
 103.133.223.50,2096,ID,Pt Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Pt Cloud Teknologi Nusantara
 103.186.1.209,2053,ID,Pt Cloud Hosting Indonesia
 103.6.207.108,8080,ID,Pt Pusat Media Indonesia
-103.168.46.169,20132,ID,Tes Inactive Server
-103.168.14.169,20132,ID,Tes Inactive Server
 172.232.239.147,587,ID,Akamai Technologies  Inc
 43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
+123.253.33.182:12306,MY,Gigabit Hosting Sdn
+154.90.39.188:48071,MY,Kaopu Cloud Hk
+210.186.12.244:443,MY,TM TECHNOLOGY SERVICE
+128.1.79.171:587,TH,UCLOUD INFORMATION
+212.80.213.45:31244,TH,Siamdata Communication
+45.144.167.46:19816,TH,Siamdata Communication
+147.45.49.107:2053,JP,JAPAN CONNECTIVITY
+141.147.155.5:54443,JP,Oracle Corporation
+89.187.160.66:8443,JP,DataCamp Limited
 51.79.158.126,443,SG,OVH SAS
 139.180.144.170,666,SG,The Constant Company  LLC
 54.251.167.101,443,SG,Amazon com  Inc
@@ -24,7 +30,6 @@
 45.77.171.102,3128,SG,The Constant Company  LLC
 138.2.89.238,43254,SG,Oracle Corporation
 47.74.254.191,8900,SG,Alibaba us Technology Co   Ltd
-103.18.146.169,20132,ID,Tes Inactive Server
 43.156.16.213,31528,SG,Shenzhen Tencent Computer Systems Company Limited
 129.150.58.86,57621,SG,Oracle Corporation
 103.180.161.10,587,SG,Hong Kong Megalayer Technology Co  limited
@@ -84,3 +89,16 @@
 8.219.163.164,36261,SG,Alibaba us Technology Co   Ltd
 62.72.46.14,8443,SG,Contabo Asia Private Limited
 158.178.225.124,53618,SG,Oracle Corporation
+45.80.208.39:443,KZ,G-Core Labs SA
+45.80.208.204:2053,KZ,G-Core Labs SA
+94.198.221.219:8443,RU,TimeWeb
+94.198.221.219:2053,RU,TimeWeb
+194.135.25.23:12423,RU,JSC Transtelecom
+104.168.43.27:54063,USA,HostPapa
+74.48.145.79:45625,USA,Multacom Corporation
+104.168.43.27:37190,USA,HostPapa
+154.9.241.153:37160,USA,NetLab Global
+5.44.42.108:8443,AE,GLOBAL CONNECTIVITY
+109.61.42.25:2049,AE,G-Core Labs
+65.20.82.22:443,IN,The Constant Company 
+103.149.165.47:443,IN,The Pinnacle Group
