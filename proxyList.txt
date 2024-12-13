@@ -4,10 +4,10 @@
 206.237.98.76,587,ID,Pt Herza Digital Indonesia
 172.232.239.134,587,ID,Akamai Technologies  Inc
 172.232.239.175,587,ID,Akamai Technologies  Inc
-103.133.223.52,2096,ID,Pt Cloud Teknologi Nusantara
 172.232.239.151,587,ID,Akamai Technologies  Inc
 172.232.239.175,587,ID,Akamai Technologies Inc
 172.232.239.249,587,ID,Akamai Technologies  Inc
+103.133.223.52,2096,ID,Pt Cloud Teknologi Nusantara
 103.133.223.50,2096,ID,Pt Cloud Teknologi Nusantara
 103.133.223.51,2096,ID,Pt Cloud Teknologi Nusantara
 103.186.1.209,2053,ID,Pt Cloud Hosting Indonesia
@@ -94,10 +94,10 @@
 94.198.221.219,8443,RU,TimeWeb
 94.198.221.219,2053,RU,TimeWeb
 194.135.25.23,12423,RU,JSC Transtelecom
-104.168.43.27,54063,USA,HostPapa
-74.48.145.79,45625,USA,Multacom Corporation
-104.168.43.27,37190,USA,HostPapa
-154.9.241.153,37160,USA,NetLab Global
+104.168.43.27,54063,US,HostPapa
+74.48.145.79,45625,US,Multacom Corporation
+104.168.43.27,37190,US,HostPapa
+154.9.241.153,37160,US,NetLab Global
 5.44.42.108,8443,AE,GLOBAL CONNECTIVITY
 109.61.42.25,2049,AE,G-Core Labs
 65.20.82.22,443,IN,The Constant Company 
